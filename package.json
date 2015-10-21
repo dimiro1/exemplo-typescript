@@ -1,0 +1,19 @@
+{
+  "name": "hellohapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "consolidate": "^0.13.1",
+    "hapi": "^11.0.0",
+    "hoek": "^2.16.3",
+    "jade": "^1.11.0",
+    "nunjucks": "^2.1.0",
+    "vision": "^3.0.0"
+  }
+}
